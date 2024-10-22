@@ -4,5 +4,5 @@ Used complex parameters to drill down in worksheet and customization using filte
 Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations.
 Used different types of cutomized visualization(bar chart, pie chart, donut chart, clustered bar chart,scatter chart, line chart, area chart, map, slicers, etc).
 
+![image](https://github.com/user-attachments/assets/de21f53c-b55e-4cc8-95ee-8174a5b61247)
 
-![image](https://github.com/user-attachments/assets/cf449201-240d-48d3-b17c-f52e1da2a038)
